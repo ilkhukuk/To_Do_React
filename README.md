@@ -27,5 +27,5 @@ https://www.linkedin.com/in/ilkhukuk/
 ilkhukuk@gmail.com
 
 # SCREENSHOT
-![] screen.gif
+![](screen.gif)
 
